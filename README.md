@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
+![Ken_Cir's GitHub stats](https://github-readme-stats.vercel.app/api?username=KenCir&count_private=true&show_icons=true&theme=radical&langs_count=10)(https://github.com/anuraghazra/github-readme-stats)
+
+
 <!-- カード -->
 [![](https://raw.githubusercontent.com/KenCir/KenCir/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/KenCir/KenCir/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KenCir/KenCir/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
