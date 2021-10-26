@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- GitHub統計カード -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KenCir&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenCir&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ken_Cir's GitHub stats](https://github-readme-stats.vercel.app/api?username=KenCir&count_private=true&show_icons=true&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenCir)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- トロフィー -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=KenCir&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 
