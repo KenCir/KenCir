@@ -2,7 +2,7 @@
 
 色々しています。
 
-最高の創作人生にしたい。
+[Twitter](https://twitter.com/Ken_Cir)
 
 <!--
 **KenCir/KenCir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
