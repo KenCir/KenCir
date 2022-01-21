@@ -1,8 +1,4 @@
-### Hi there👋 I'm Ken_Cir
-
-I am a junior high school programmer living in Japan.
-
-We are developing WebSite, DiscordBot, PocketMine-MP plugins and more.
+### Hi there👋
 
 
 [Twitter](https://twitter.com/Ken_Cir)
