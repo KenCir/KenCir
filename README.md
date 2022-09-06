@@ -1,7 +1,5 @@
 ### Hi there👋
 
-日々物を創り続ける、それが使命だから
-
 
 [Twitter](https://twitter.com/Ken_Cir)
 
