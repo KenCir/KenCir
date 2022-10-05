@@ -1,5 +1,7 @@
 ### Hi there👋
 
+### My favorite languages are PHP & JavaScript & Vue & TypeScript & C++ & Python
+
 
 [Twitter](https://twitter.com/Ken_Cir)
 
