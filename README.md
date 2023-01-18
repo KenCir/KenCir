@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- GitHub統計カード -->
-[![Anurag's GitHub stats](github-readme-stats-gilt-ten-26.vercel.app/api?username=KenCir&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-gilt-ten-26.vercel.app/api?username=KenCir&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- トロフィー -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=KenCir&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/KenCir/KenCir/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/KenCir/KenCir/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KenCir/KenCir/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Top Langs](https://github-readme-stats-beige-phi.vercel.app/api/top-langs/?username=KenCir&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-gilt-ten-26.vercel.app/api/top-langs/?username=KenCir&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
