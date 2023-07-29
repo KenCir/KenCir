@@ -19,8 +19,6 @@
 
 <!-- GitHub Profile Summary Cards -->
 [![](https://github-profile-summary-cards.kencir.blog/api/cards/profile-details?username=KenCir&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.kencir.blog/api/cards/repos-per-language?username=KenCir&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.kencir.blog/api/cards/most-commit-language?username=KenCir&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-profile-summary-cards.kencir.blog/api/cards/stats?username=KenCir&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-profile-summary-cards.kencir.blog/api/cards/productive-time?username=KenCir&theme=tokyonight&utcOffset=9)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
