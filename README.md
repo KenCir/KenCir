@@ -7,10 +7,10 @@
 <!-- GitHub Readme Stats -->
 <p align="left"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="GitHub Stats" height="200px" src="https://github-readme-stats.kencir.blog/api?username=KenCir&show=reviews&show_icons=true&count_private=true&theme=midnight-purple" />
+    <img alt="GitHub Stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=KenCir&show=reviews&show_icons=true&count_private=true&theme=midnight-purple" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Lang" height="200px" src="https://github-readme-stats.kencir.blog/api/top-langs/?username=KenCir&langs_count=10&size_weight=0.5&count_weight=0.5&layout=compact" />
+    <img alt="Top Lang" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenCir&langs_count=10&size_weight=0.5&count_weight=0.5&layout=compact" />
   </a>
 </p>
 
