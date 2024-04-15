@@ -17,8 +17,3 @@ If your profile doesn't load, please reload.
 
 <!-- GitHub Profile Trophy -->
 [![trophy](https://github-profile-trophy.kencir.blog/?username=KenCir&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- GitHub Profile Summary Cards -->
-[![](https://github-profile-summary-cards.kencir.blog/api/cards/profile-details?username=KenCir&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.kencir.blog/api/cards/stats?username=KenCir&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.kencir.blog/api/cards/productive-time?username=KenCir&theme=tokyonight&utcOffset=9)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
