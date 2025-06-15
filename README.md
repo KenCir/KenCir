@@ -1,6 +1,6 @@
 <!-- Hello World! -->
 ### Hi there👋 I'm Ken_Cir.
-### I am a high school student programmer.
+### I am a university student and a programmer.
 
 <br>
 If your profile doesn't load, please reload.
